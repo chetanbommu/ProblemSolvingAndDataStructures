@@ -5,7 +5,7 @@ package dynamicProgramming;
 public class RecursiveStairCase {
 	
 	public static void main(String[] args) {
-		int steps = 100; 
+		int steps = 10; 
 		//System.out.println(countPaths_RecursiveApproach(steps));
 		System.out.println(countPathsDP_MemoizationApproach(steps));
 		System.out.println(countPathsDP_TabulationApproach(steps));
