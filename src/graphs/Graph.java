@@ -83,7 +83,7 @@ public class Graph {
 	}
 	
 	/* Return true if source has a path to destination following BFS algorithm
-	 * 
+	 * BFS is used to find shortest path between two nodes.
 	 * Note: BFS follow FIFO approach.
 	 * */
 	public boolean hasPathBFS(int source, int destination) {
