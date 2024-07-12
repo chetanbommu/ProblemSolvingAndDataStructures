@@ -1,5 +1,6 @@
 package trees;
 
+/** Base Structure */
 public class BSTNode {
 
 	int data;
